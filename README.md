@@ -3,5 +3,5 @@
     <br />
 </h1>
 
-<p align="center">The Central Repository for managing more-general,
-development/technial issues in the Ma3Route ecosystem</p>
+<p align="center">The central repository for managing more-general,
+development/technical issues in the Ma3Route Ecosystem</p>
